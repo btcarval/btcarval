@@ -14,8 +14,5 @@
 
 Qualquer dúvida entre em contato
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-bruno.barros.carvalho@escola.pr.gov.br
-
+<a href="mailto:email@email.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
